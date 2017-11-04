@@ -1,0 +1,80 @@
+==================================================================
+https://keybase.io/edisonlee55
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.edisonlee55.com
+  * I am edisonlee55 (https://keybase.io/edisonlee55) on keybase.
+  * I have a public key with fingerprint 449F 38F5 CDD8 5C58 FCCB  5B19 6C8E AF0D 90FD 8E80
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010137765e343f7b3a8e68f97fd1d96fa4958611083f31f9e81872ccfd44813023df0a",
+            "fingerprint": "449f38f5cdd85c58fccb5b196c8eaf0d90fd8e80",
+            "host": "keybase.io",
+            "key_id": "6c8eaf0d90fd8e80",
+            "kid": "010137765e343f7b3a8e68f97fd1d96fa4958611083f31f9e81872ccfd44813023df0a",
+            "uid": "df5e92f55e45c64d84cf26718512ab19",
+            "username": "edisonlee55"
+        },
+        "revoke": {
+            "sig_ids": [
+                "d200d1719a0e60f0bb7822f1a1e989267d193540b15b572bd7ecb199b9f5eff90f"
+            ]
+        },
+        "service": {
+            "hostname": "www.edisonlee55.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1477215435,
+    "expire_in": 157680000,
+    "prev": "b62f72912d2611f829a60cffb32ee0d8746a569390dfbbd9beff138fce2c143c",
+    "seqno": 22,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.58
+Comment: https://keybase.io/crypto
+
+yMOJAnicrZJ9TFZVHMcfXiJAXhPIOcq4CBUvT/fce899eRa5NnPDgoTIDJHHe+85
+h+cKPPfxeeEldSIROmOALXNWsDA20EijpLEJFAqGormlNYFaNJqaOhISU0rrPMy2
+/ujP7j9n9+z7/f4+v9/5DUUGWcIDyhqPRDbfbawJGB2857Osi6gb3cJoJqpmbFuY
+Urxw4DKEPV57qYEYG8MCFvCSJELMCzyRNF6VsSgTRSIIIEUkqqBAWQSAlXnCA6Jg
+GcgSp+sECYIMeJbjEWFVJoMhhrMEu11uw+mlsYKgEF4mUEdIhjqUia5rUAOKqMtY
+JSxSWIJkLLPU6DA9fgeF01QPthomvaM/9gW8/9D/z9y+hThEIFY4AiEWoC4KSBZ0
+wokSkCHgVMrtF3qw26mWY6rGyPCYzjKMIWS2ZTBuXGGWYv9oPUYJ5fYwtvUM4lgW
+AQkoKotFlrCaJskcR4AKsCIrNBsBhYcCqwGoQYnTkIR1WkjRFIpCCG2Y2UCzadEK
+Q18I9w/qPkBlZaX1XxBW3SynhC636TV1s4wKHF6vy2Pzw3mrXQsOrNnvZ9k1w4no
+a1FHBXZ7DNPJ2ABV6l7DHw4ESeIAFHiYweAql+HGdsOvgJIos/Tz18EVNFITOSJx
+CuAQRwdNZE5RRVYnROM5jFkkS4KoQlHhFRYRTUOKRtsCdCl0zOlA4HXG391mp8nY
+OI5yqiU0kw7QqXp9bsxsOz5YFGwJCLeEPBDoX2NLeFjMP8sd54j+y9EUXby/e81w
+VOy+dmmlb0aLdG9cVd3/HWkuSR/on5icfr6g5+zDi8yJwbc7xrraQm9c7M5piYtv
+yHoqMe/w4PkjrRtDx+fWH8uNnWv5TDltvX3ikZCs20V32ustQ32NV064oqc+T5ZT
+1+bbq6Mzun/37rz17qXXt45uV3ZFhWcvyTylxfS8cKN10abc5XcL8JLg3eM1beTF
+xFeSv/Wm7C2U9ixj0+G0N6t5YOj2VHzJJ9+8dirKPX/ofPFwUX5EeFhgbU0aeDQ5
+syuGXSbkPfRD0wY8VdXQ2eqs9Dmajj5ef/PjRP7qkfS5wN+eywmAbeCxuhX5t4a7
+3slI+cmxfGnHpFh48F776t0tSUiyXy4N6Tn7csOZVSmnZj890NbxpJWdqb/aOFsb
+P7K9c/iKl8/+JeaZ75GhT5QF/VrVYcxkHsrduvTCic1758PTqv4YSx3fkXPz5+Qv
+asJ6A0ZW3jv9ZVnP+74qS1RdeblrbedY8cSBof7sPRdr/4wOiRsJiIy73Br7wazP
+81V0w6ZzP8YX+daNmfNncipCVktPpCclOXbYBldM1D3bNHknecnBgbrsxYltaW+d
+hXGe6oLM4JMffvTqYdjOJ1xKCNqSMnL4vabTb4Y+ePw6vPbSyUIh4uuxyMiuvgsR
+ebMpaxbX9zo8bxxNtZ0rv9ZrHd1fNb1539PW/jHr9dSdxxKmVvf9DRLH1eM=
+=LP9d
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/edisonlee55
+
+==================================================================
