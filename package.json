@@ -1,0 +1,43 @@
+{
+    "name": "edisonlee55-website",
+    "version": "2.0.0",
+    "description": "edisonlee55's Official Website",
+    "keywords": [
+        "css",
+        "sass",
+        "html",
+        "responsive",
+        "theme",
+        "template"
+    ],
+    "homepage": "https://www.edisonlee55.com",
+    "bugs": {
+        "url": "https://github.com/edisonlee55/www.edisonlee55.com/issues",
+        "email": "edisonlee@edisonlee55.com"
+    },
+    "license": "MIT",
+    "author": {
+        "name": "Edison Lee",
+        "email": "edisonlee@edisonlee55.com",
+        "url": "https://www.edisonlee55.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/edisonlee55/www.edisonlee55.com.git"
+    },
+    "dependencies": {
+        "bootstrap": "4.0.0",
+        "font-awesome": "4.7.0",
+        "jquery": "3.3.1",
+        "jquery.easing": "^1.4.1"
+    },
+    "devDependencies": {
+        "browser-sync": "2.23.6",
+        "gulp": "^3.9.1",
+        "gulp-clean-css": "3.9.2",
+        "gulp-header": "2.0.1",
+        "gulp-rename": "^1.2.2",
+        "gulp-sass": "^3.1.0",
+        "gulp-uglify": "3.0.0"
+    }
+}
