@@ -1,0 +1,11 @@
+sudo:          false
+language:      node_js
+node_js:
+  - "node"
+install:       yarn
+script:
+  - yarn test
+  - gulp
+cache:
+  directories:
+    - node_modules
