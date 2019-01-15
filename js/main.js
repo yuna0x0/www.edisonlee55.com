@@ -1,6 +1,9 @@
-let pageUrl_string = window.location.href;
-let pageUrl = new URL(pageUrl_string);
-let pagePeople = pageUrl.searchParams.get("p");
+var copyrightYear = new Date().getFullYear();
+$("#copyrightText").text("\u00A9" + copyrightYear + " edisonlee55");
+
+var pageUrl_string = window.location.href;
+var pageUrl = new URL(pageUrl_string);
+var pagePeople = pageUrl.searchParams.get("p");
 if (pagePeople == "kafuu") {
     document.title = "香風明謙 Edison Kafuu";
     $("#navName").text("香風明謙 Edison Kafuu");
