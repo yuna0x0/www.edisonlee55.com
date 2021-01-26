@@ -258,3 +258,7 @@ img::selection {
 img::-moz-selection {
   background: transparent;
 }
+
+#about img {
+  margin: 0 0 25px;
+}
