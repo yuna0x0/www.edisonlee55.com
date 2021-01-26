@@ -8,7 +8,7 @@ if (pagePeople == "kafuu") {
     document.title = "香風明謙 Kafuu Edison";
     $("#navName").text("香風明謙 Kafuu Edison");
     $("#titleName").html("香風明謙<br>Kafuu Edison");
-} else if (pagePeople == "gab") {
+} else if (pagePeople == "gabu") {
     document.title = "小加百 Gabu Meow";
     $("#navName").text("小加百 Gabu Meow");
     $("#titleName").html("小加百<br>Gabu Meow");
