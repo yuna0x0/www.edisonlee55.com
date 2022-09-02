@@ -132,6 +132,23 @@
     </div>
   </header>
 
+  <style>
+    #sakana-widget {
+      position: fixed;
+      bottom: 0;
+      right: 0;
+      z-index: 99;
+    }
+
+    @media (max-width: 575.98px) {
+      #sakana-widget {
+        display: none;
+      }
+    }
+  </style>
+  <div id="sakana-widget">
+  </div>
+
   <!-- About Section -->
   <section id="about" class="content-section text-center">
     <div class="container">
@@ -465,6 +482,8 @@
       crossorigin="anonymous"></script> -->
 
   <script src="js/main.min.js"></script>
+  <script async onload="initSakanaWidget()"
+    src="https://cdn.jsdelivr.net/npm/sakana-widget@2.2.2/lib/sakana.min.js"></script>
   <script src="https://cdn.edisonlee55.com/resources/js/selfxss-warning.min.js"></script>
 </body>
 
