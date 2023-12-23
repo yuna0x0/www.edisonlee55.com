@@ -1,5 +1,11 @@
 function initSakanaWidget() {
-  new SakanaWidget({ controls: false }).setState({ i: 0.005 }).mount('#sakana-widget');
+  const edisonlee55Padoru = SakanaWidget.getCharacter('chisato');
+  edisonlee55Padoru.image = `https://cdn.edisonlee55.com/edisonlee55/resources/photo/edisonlee55_padoru_t.webp`;
+  SakanaWidget.registerCharacter('edisonlee55 Padoru', edisonlee55Padoru);
+  new SakanaWidget({
+    controls: false,
+    character: 'edisonlee55 Padoru'
+  }).setState({ i: 0.005 }).mount('#sakana-widget');
 }
 
 var copyrightYear = new Date().getFullYear();
